@@ -14,7 +14,6 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://crud-backend.vercel.app",
-        "APP_KEY": "base64:vSEjTIqiCQs4YymSt9/w6Jr3kZWh3i4+mxQZBe7CKWE=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
